@@ -1,0 +1,21 @@
+.mycard {
+    background-color: rgba(31,39,49,255);
+    border-radius: 25px;
+    padding: 20px;
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+
+p{
+    color:rgba(197,198,200,255);
+    font-size: 18px;
+}
+
+img{
+    margin-left: 350px;
+    width: 100%;
+}
