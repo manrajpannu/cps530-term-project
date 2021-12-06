@@ -13,7 +13,7 @@ function HomePage() {
       <Section
 
         backgroundImg={"/3417081.jpg"}
-        title={"Raghav Sahoo"}
+        title={"John Doe"}
         description={"React Developer"}
         showIcon={true}
         linkedinLink={"https://www.linkedin.com"}
@@ -24,7 +24,7 @@ function HomePage() {
         }
         showButton={true}
         buttonLink={
-          "www.google.com"
+          "https://fake.jsonresume.org/"
         }
         showLower={false}
         lowerText={"Scroll through some of my projects below"}

@@ -17,12 +17,12 @@ const Nav = () => {
         <h1>React Showcase</h1>
         <ul className="nav-links">
 
-           <Link to="/"> <li>Page 1</li> </Link>
-           <Link to="/page2"> <li>Page 2</li> </Link>
-           <Link to="/page3"> <li>Page 3</li> </Link>
-           <Link to="/page4"> <li>Page 4</li> </Link>
-           <Link to="/page5"> <li>Page 5</li> </Link>
-           <Link to="/page6"> <li>Page 6</li> </Link>
+           <Link to="/"> <li>Home</li> </Link>
+           <Link to="/page2"> <li>Setup</li> </Link>
+           <Link to="/page3"> <li>Tutorial</li> </Link>
+           <Link to="/page4"> <li>Demo</li> </Link>
+           <Link to="/page5"> <li>Conclusion</li> </Link>
+           <Link to="/page6"> <li>Credits </li> </Link>
         </ul>
     </nav>
   )
